@@ -1,0 +1,6 @@
+var1 = input("请输入第一行内容\n")
+var2 = input("请输入第二行内容\n")
+print("第二行内容是\n")
+print(var2)
+print("第一行内容是\n")
+print(var1)
